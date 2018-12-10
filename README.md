@@ -7,9 +7,9 @@
 - [ ] Review your Starter Code and make sure you understand what code has already been written for you.
 ### Set-Up
 - [x] Go to the repository at https://github.com/ScriptEdcurriculum/playlist
-- [ ] Fork this repository to your github account and clone it to a new workspace
-- [ ] Add, commit, and push your changes
-- [ ] Make your site live on gh-pages
+- [x] Fork this repository to your github account and clone it to a new workspace
+- [x] Add, commit, and push your changes
+- [x] Make your site live on gh-pages
 
 ### JS
 - [ ] Change the songs in the songs array
