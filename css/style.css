@@ -26,11 +26,13 @@ h2 {
 }
 
 h3 {
-    border: 1px solid black;
+    border: 1px solid gray;
     margin: 5px;
     padding: 5px;
     font-size: 15px;
     text-align: center;
+    background-color: black;
+    color:white;
 }
 
 #shows p {
