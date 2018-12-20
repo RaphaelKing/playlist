@@ -12,10 +12,10 @@
 - [x] Make your site live on gh-pages
 
 ### JS
-- [ ] Change the songs in the songs array
-- [ ] Update the song array in your project to have at least 4 songs
-- [ ] Create four new arrays to store
-- [ ] images_urls, artists, song lengths, and links
+- [x] Change the songs in the songs array
+- [x] Update the song array in your project to have at least 4 songs
+- [x] Create four new arrays to store
+- [x] images_urls, artists, song lengths, and links
 ### html / css
 - [ ] Customize your CSS or add another column
 
